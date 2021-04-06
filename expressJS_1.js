@@ -140,6 +140,10 @@ console.log("hi");
     //git :::: git commit -m "restart Commit" (커밋하기)
 
     //git :::: git push origin master 
+    
+    ** failed to push some refs to git 에러 생기는 이유
+    - github에 있는 파일과 현재 push 하려는 commit이 일치하지 않아 발생
+    
 */
 
 
