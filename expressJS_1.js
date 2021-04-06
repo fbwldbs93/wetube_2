@@ -128,8 +128,18 @@ console.log("hi");
 
     README.md 도 생성
     --니코쌤은 notes들을 readme에 저장함
-    
 
+
+    --------------------------------------
+    암튼 다시 git 에 올리기
+
+    //git :::: git remote add origin https://github.com/fbwldbs93/wetube.git (내 깃 주소에 연결)
+
+    //git :::: git add . (파일 전체 대기열에 추가 시키기)
+
+    //git :::: git commit -m "restart Commit" (커밋하기)
+
+    //git :::: git push origin master 
 */
 
 
